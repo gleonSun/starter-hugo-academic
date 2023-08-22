@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Sharing
 cms_exclude: true
 
 # View.

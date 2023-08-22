@@ -3,18 +3,18 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-en:
-  languageCode: en-us
+# en:
+  # languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
+zh:
+ languageCode: zh-Hans
 #  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
+ title: Guoliang's Blog
+ params:
+   description: 孙国良的博客
 #  menu:
 #    main:
 #      - name: 传
